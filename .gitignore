@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore swap files
+*.swp
+
+# Ignore all temporary files
+*~
+
+# Ignore all .tmp files
+*.tmp
