@@ -1,0 +1,17 @@
+{
+  "score": 100,
+  "full_score": 100,
+  "tests": {
+    "docker_build_run": "PASS (10/10)",
+    "run_docker_autograde": "PASS (0/0)",
+    "protobuf_interface": "PASS (10/10)",
+    "set_coefs": "PASS (10/10)",
+    "predict": "PASS (10/10)",
+    "predict_single_call_cache": "PASS (10/10)",
+    "predict_full_cache_eviction": "PASS (10/10)",
+    "set_coefs_cache_invalidation": "PASS (10/10)",
+    "client_workload_1": "PASS (10/10)",
+    "client_workload_2": "PASS (10/10)",
+    "client_workload_3": "PASS (10/10)"
+  }
+}
